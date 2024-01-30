@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "1 * * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["main"]}
@@ -10,13 +10,8 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Mask secrets
-        run: |
-          echo "::add-mask::${{ secrets.METRICS_TOKEN }}"
-          echo "::add-mask::${{ secrets.COMMIT_AUTHOR_LIST }}"
-      
-      - uses: lowlighter/metrics@latest
-        with:
+     - uses: lowlighter/metrics@latest
+       with:
           # GH secret
           token: ${{ secrets.METRICS_TOKEN }}
 
