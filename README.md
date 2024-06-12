@@ -10,7 +10,7 @@ im a computer science student majoring in software technology! i love dabbling w
   <a href="https://www.instagram.com/_bantolinojana/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/jana-marie-bantolino-aa1009257">
+  <a href="www.linkedin.com/in/jana-marie-bantolino">
     <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </span>
