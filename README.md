@@ -1,6 +1,6 @@
 ## hi my name is jana!  ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
-im a computer science student majoring in software technology! i love dabbling with ui/ux and mechanical keyboards!
+im a computer science student majoring in software technology! i love dabbling with ui/ux and data!
 
 ## find me in
 <span>
