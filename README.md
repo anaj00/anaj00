@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/86b18e00-0b84-4d9f-8982-33285b134934)## hi my name is jana!  ૮ ˶ᵔ ᵕ ᵔ˶ ა
+## hi my name is jana!  ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
 im a computer science student majoring in software technology! i love dabbling with ui/ux and data!
 
